@@ -1,4 +1,4 @@
-const LOCATION = 'bln'
+const LOCATION = 'cph'
 
 export default {
   env: {
